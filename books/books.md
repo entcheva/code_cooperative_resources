@@ -1,4 +1,5 @@
 ## Books (Reading):
+- _Teaching Teach Together_, Greg Wilson (https://teachtogether.tech/)
 - _Emergent Strategy_, adrienne maree brown
 - _The New Jim Crow: Mass Incarceration in the Age of Colorblindness_, Michelle Alexander
 - _Race After Technology: Abolitionist Tools for the New Jim Code_, Ruha Benjamin
@@ -7,3 +8,4 @@
 
 ## Books (Read & relevant):
 - _Program or Be Programmed_, Douglass Rushkoff
+- _Getting Real_, 37Signals (https://basecamp.com/books/getting-real)
