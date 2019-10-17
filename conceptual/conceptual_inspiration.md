@@ -1,6 +1,5 @@
-# Technical conceptual projects with a POV
+# Conceptual projects with a POV
 
-## Adam Harvey
 - Adam Harvey, CV Dazzle, Camouflage from face-detection, https://ahprojects.com/cvdazzle/
 - Adam Harvey, Stealth Wear, Anti-Drone Fashion, https://ahprojects.com/stealth-wear/
 - Adam Harvey, OFF Pocket, Faraday cage phone case, https://ahprojects.com/off-pocket/
